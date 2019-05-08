@@ -1,0 +1,1 @@
+New-BurntToastNotification -AppLogo F:\eye-toast\toast.png -Text "The sky is blue", 'yes, it is.'
